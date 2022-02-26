@@ -1,4 +1,4 @@
-import { ISignIn } from './ISignIn';
-import { ISignUp } from './ISignUp';
-export { ISignIn, ISignUp };
+import { ILogin } from './ILogin';
+import { IRegistration } from './IRegistration';
+export { ILogin, IRegistration };
 //# sourceMappingURL=index.d.ts.map
