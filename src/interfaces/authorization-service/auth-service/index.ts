@@ -1,4 +1,4 @@
-import { ISignIn } from './ISignIn';
-import { ISignUp } from './ISignUp';
+import { ILogin } from './ILogin';
+import { IRegistration } from './IRegistration';
 
-export { ISignIn, ISignUp };
+export { ILogin, IRegistration };

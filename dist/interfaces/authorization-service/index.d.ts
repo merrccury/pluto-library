@@ -1,3 +1,3 @@
-import { ISignIn, ISignUp } from './auth-service';
-export { ISignIn, ISignUp };
+import { ILogin, IRegistration } from './auth-service';
+export { ILogin, IRegistration };
 //# sourceMappingURL=index.d.ts.map

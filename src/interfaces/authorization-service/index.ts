@@ -1,3 +1,3 @@
-import { ISignIn, ISignUp } from './auth-service';
+import { ILogin, IRegistration } from './auth-service';
 
-export { ISignIn, ISignUp };
+export { ILogin, IRegistration };
