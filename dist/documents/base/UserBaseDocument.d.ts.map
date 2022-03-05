@@ -1,0 +1,1 @@
+{"version":3,"file":"UserBaseDocument.d.ts","sourceRoot":"","sources":["../../../src/documents/base/UserBaseDocument.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,iBAAiB,CAAC;AACrD,OAAO,EAAE,KAAK,EAAE,MAAM,yBAAyB,CAAC;AAEhD,MAAM,WAAW,gBAAiB,SAAQ,KAAK,EAAE,kBAAkB;IACjE,cAAc,EAAE,MAAM,CAAC;CACxB"}

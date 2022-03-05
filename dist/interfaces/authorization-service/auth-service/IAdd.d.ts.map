@@ -1,0 +1,1 @@
+{"version":3,"file":"IAdd.d.ts","sourceRoot":"","sources":["../../../../src/interfaces/authorization-service/auth-service/IAdd.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,QAAQ,EAAE,MAAM,gBAAgB,CAAC;AAElD,MAAM,WAAW,IAAI;IACnB,QAAQ,EAAE,MAAM,CAAC;IACjB,QAAQ,EAAE,MAAM,CAAC;IACjB,IAAI,EAAE,QAAQ,CAAC;IACf,MAAM,EAAE,MAAM,CAAC;CAChB"}

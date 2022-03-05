@@ -1,1 +1,1 @@
-{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../src/interfaces/authorization-service/index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,aAAa,EAAE,MAAM,gBAAgB,CAAC;AAEvD,OAAO,EAAE,MAAM,EAAE,aAAa,EAAE,CAAC"}
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../src/interfaces/authorization-service/index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,EAAE,aAAa,EAAE,MAAM,gBAAgB,CAAC;AAE7D,OAAO,EAAE,MAAM,EAAE,aAAa,EAAE,IAAI,EAAE,CAAC"}
